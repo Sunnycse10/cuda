@@ -1,3 +1,4 @@
+//This program multiplies two matrices
 #include<iostream>
 #include<cstdlib>
 #include<vector>
